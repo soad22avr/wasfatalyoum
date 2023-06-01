@@ -2,6 +2,6 @@ User-agent: Mediapartners-Google
 Disallow:
 User-agent:*
 Disallow: /search
-Allow: /Sitemap: https://www.wasfatlyoum.com/sitemap.xml
+Allow: /Sitemap: https://www.wasfatalyoum.site/sitemap.xml
 
 Allow: /ads.txt
