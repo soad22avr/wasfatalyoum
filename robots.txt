@@ -1,7 +1,2 @@
-User-agent: Mediapartners-Google
-Disallow:
-User-agent:*
-Disallow: /search
-Allow: /Sitemap: https://www.wasfatalyoum.site/sitemap.xml
-
-Allow: /ads.txt
+User-agent: *
+Allow: /
