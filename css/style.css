@@ -118,15 +118,15 @@ a:hover {
 }
 
 .btn-green {
-	background-color: #68cc66;
-	border: solid 2px #68cc66;
+	background-color: #FB6754;
+	border: solid 2px #FB6754;
 	color: #fff;
 }
 
 .btn-green:hover,
 .btn-green:not(:disabled):not(.disabled):active:focus {
 	background-color: transparent;
-	color: #68cc66;
+	color: #FB6754;
 }
 
 .btn-red {
@@ -262,7 +262,7 @@ textarea {
 }
 
 .navbar .navbar-nav .nav-item.active a {
-	color: #68cc66;
+	color: #FB6754;
 }
 
 .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
@@ -331,7 +331,7 @@ textarea {
 }
 
 .navbar .social-links li a:hover {
-	color: #68cc66;
+	color: #FB6754;
 }
 
 .navbar .search a {
@@ -339,7 +339,7 @@ textarea {
 }
 
 .navbar .search a:hover {
-	color: #68cc66;
+	color: #FB6754;
 }
 
 .navbar .search .search-field {
@@ -368,7 +368,7 @@ textarea {
 }
 
 .navbar .search .search-field button {
-	background-color: #68cc66;
+	background-color: #FB6754;
 	color: #fff;
 	font-size: 15px;
 	border: 0;
