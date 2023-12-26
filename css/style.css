@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #41B5BB;
+	color: #1A1A1A;
 	font-weight: 700;
 }
 
@@ -93,7 +93,7 @@ a:hover {
 
 .btn-dark {
 	background-color: #41B5BB;
-	border: solid 2px #41B5BB;
+	border: solid 2px #1A1A1A;
 	color: #fff;
 }
 
@@ -107,7 +107,7 @@ a:hover {
 .btn-light {
 	background-color: #fff;
 	border: solid 2px #fff;
-	color: #41B5BB;
+	color: #1A1A1A;
 }
 
 .btn-light:hover,
@@ -253,7 +253,7 @@ textarea {
 
 .navbar .navbar-nav .nav-item .nav-link {
 	font-size: 1.125rem;
-	color: #3c3c3c;
+	color: #1A1A1A;
 	font-weight: 400;
 }
 
@@ -335,7 +335,7 @@ textarea {
 }
 
 .navbar .search a {
-	color: #41B5BB;
+	color: #1A1A1A;
 }
 
 .navbar .search a:hover {
@@ -364,7 +364,7 @@ textarea {
 	text-transform: uppercase;
 	padding-left: 20px;
 	font-size: 11px;
-	color: #41B5BB;
+	color: #1A1A1A;
 }
 
 .navbar .search .search-field button {
@@ -375,7 +375,7 @@ textarea {
 }
 
 .navbar .search .search-field button:hover {
-	background: #41B5BB;
+	background: #1A1A1A;
 }
 
 .navbar .navbar-toggler .navbar-toggler-icon:after,
