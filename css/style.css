@@ -130,15 +130,15 @@ a:hover {
 }
 
 .btn-red {
-	background-color: #e94040;
-	border: solid 2px #e94040;
+	background-color: #7ba474;
+	border: solid 2px #7ba474;
 	color: #fff;
 }
 
 .btn-red:hover,
 .btn-red:not(:disabled):not(.disabled):active:focus {
 	background-color: transparent;
-	color: #e94040;
+	color: #7ba474;
 }
 
 
