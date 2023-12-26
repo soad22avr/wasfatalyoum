@@ -23,7 +23,7 @@
 ==========================================================*/
 
 body {
-	color: #3c3c3c;
+	color: #41B5BB;
 	font-family: 'Lora', serif;
 	font-size: 15px;
 	width:100%;
@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #3c3c3c;
+	color: #41B5BB;
 	font-weight: 700;
 }
 
@@ -92,22 +92,22 @@ a:hover {
 }
 
 .btn-dark {
-	background-color: #3c3c3c;
-	border: solid 2px #3c3c3c;
+	background-color: #41B5BB;
+	border: solid 2px #41B5BB;
 	color: #fff;
 }
 
 .btn-dark:hover,
 .btn-dark:not(:disabled):not(.disabled):active:focus {
 	background-color: transparent;
-	color: #3c3c3c;
-	border-color: #3c3c3c;
+	color: #41B5BB;
+	border-color: #41B5BB;
 }
 
 .btn-light {
 	background-color: #fff;
 	border: solid 2px #fff;
-	color: #3c3c3c;
+	color: #41B5BB;
 }
 
 .btn-light:hover,
@@ -327,7 +327,7 @@ textarea {
 }
 
 .navbar .social-links li a {
-	color: #3c3c3c;
+	color: #41B5BB;
 }
 
 .navbar .social-links li a:hover {
@@ -335,7 +335,7 @@ textarea {
 }
 
 .navbar .search a {
-	color: #3c3c3c;
+	color: #41B5BB;
 }
 
 .navbar .search a:hover {
@@ -364,7 +364,7 @@ textarea {
 	text-transform: uppercase;
 	padding-left: 20px;
 	font-size: 11px;
-	color: #3c3c3c;
+	color: #41B5BB;
 }
 
 .navbar .search .search-field button {
@@ -375,7 +375,7 @@ textarea {
 }
 
 .navbar .search .search-field button:hover {
-	background: #3c3c3c;
+	background: #41B5BB;
 }
 
 .navbar .navbar-toggler .navbar-toggler-icon:after,
@@ -396,7 +396,7 @@ textarea {
 	font-size: 1em;
 	line-height: 2.3em;
 	font-weight: 600;
-	color: #3c3c3c;
+	color: #41B5BB;
 }
 
 .navbar-nav .dropdown-menu {
@@ -518,7 +518,7 @@ footer .footer-credit p {
 	-ms-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
 	-o-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
 	box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
-	background: #3c3c3c;
+	background: #41B5BB;
 	border-radius: 5px;
 	padding: 5px 10px;
 }
@@ -674,7 +674,7 @@ footer .footer-credit p {
 
 .featured-post .nav-tabs .nav-link {
 	border: none;
-	color: #3c3c3c;
+	color: #41B5BB;
 	border-radius: 0;
 	font-size: 1.125rem;
 	text-transform: capitalize;
@@ -696,7 +696,7 @@ footer .footer-credit p {
 }
 
 .sec-title h3 {
-	color: #3c3c3c;
+	color: #41B5BB;
 	font-size: 1.5rem;
 	text-transform: capitalize;
 	font-weight: 700;
@@ -726,7 +726,7 @@ footer .footer-credit p {
 }
 
 .sidebar .widget .widget-title {
-	color: #3c3c3c;
+	color: #41B5BB;
 	font-size: 13px;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -1015,14 +1015,14 @@ footer .footer-credit p {
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	color: #3c3c3c;
+	color: #41B5BB;
 	font-size: 75px;
 	font-family: 'Playfair Display';
 }
 
 .single-page-content blockquote p {
 	font-weight: 700;
-	color: #3c3c3c;
+	color: #41B5BB;
 	font-size: 20px;
 }
 
@@ -1099,7 +1099,7 @@ footer .footer-credit p {
 	font-size: 11px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #3c3c3c;
+	color: #41B5BB;
 }
 
 .comment-section .comment .comment-img {
@@ -1155,7 +1155,7 @@ footer .footer-credit p {
 ==========================================================*/
 
 .contact a {
-	color: #3c3c3c;
+	color: #41B5BB;
 }
 
 .contact a:hover {
