@@ -23,7 +23,7 @@
 ==========================================================*/
 
 body {
-	color: #1A1A1A;
+	color: #3c3c3c;
 	font-family: 'Lora', serif;
 	font-size: 15px;
 	width:100%;
@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #1A1A1A;
+	color: #3c3c3c;
 	font-weight: 700;
 }
 
@@ -92,22 +92,22 @@ a:hover {
 }
 
 .btn-dark {
-	background-color: #41B5BB;
-	border: solid 2px #1A1A1A;
+	background-color: #3c3c3c;
+	border: solid 2px #3c3c3c;
 	color: #fff;
 }
 
 .btn-dark:hover,
 .btn-dark:not(:disabled):not(.disabled):active:focus {
 	background-color: transparent;
-	color: #41B5BB;
-	border-color: #41B5BB;
+	color: #3c3c3c;
+	border-color: #3c3c3c;
 }
 
 .btn-light {
 	background-color: #fff;
 	border: solid 2px #fff;
-	color: #1A1A1A;
+	color: #3c3c3c;
 }
 
 .btn-light:hover,
@@ -118,27 +118,27 @@ a:hover {
 }
 
 .btn-green {
-	background-color: #FB6754;
-	border: solid 2px #FB6754;
+	background-color: #68cc66;
+	border: solid 2px #68cc66;
 	color: #fff;
 }
 
 .btn-green:hover,
 .btn-green:not(:disabled):not(.disabled):active:focus {
 	background-color: transparent;
-	color: #FB6754;
+	color: #68cc66;
 }
 
 .btn-red {
-	background-color: #7ba474;
-	border: solid 2px #7ba474;
+	background-color: #e94040;
+	border: solid 2px #e94040;
 	color: #fff;
 }
 
 .btn-red:hover,
 .btn-red:not(:disabled):not(.disabled):active:focus {
 	background-color: transparent;
-	color: #7ba474;
+	color: #e94040;
 }
 
 
@@ -253,7 +253,7 @@ textarea {
 
 .navbar .navbar-nav .nav-item .nav-link {
 	font-size: 1.125rem;
-	color: #1A1A1A;
+	color: #3c3c3c;
 	font-weight: 400;
 }
 
@@ -262,7 +262,7 @@ textarea {
 }
 
 .navbar .navbar-nav .nav-item.active a {
-	color: #FB6754;
+	color: #68cc66;
 }
 
 .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
@@ -327,19 +327,19 @@ textarea {
 }
 
 .navbar .social-links li a {
-	color: #41B5BB;
+	color: #3c3c3c;
 }
 
 .navbar .social-links li a:hover {
-	color: #FB6754;
+	color: #68cc66;
 }
 
 .navbar .search a {
-	color: #1A1A1A;
+	color: #3c3c3c;
 }
 
 .navbar .search a:hover {
-	color: #FB6754;
+	color: #68cc66;
 }
 
 .navbar .search .search-field {
@@ -364,18 +364,18 @@ textarea {
 	text-transform: uppercase;
 	padding-left: 20px;
 	font-size: 11px;
-	color: #1A1A1A;
+	color: #3c3c3c;
 }
 
 .navbar .search .search-field button {
-	background-color: #FB6754;
+	background-color: #68cc66;
 	color: #fff;
 	font-size: 15px;
 	border: 0;
 }
 
 .navbar .search .search-field button:hover {
-	background: #1A1A1A;
+	background: #3c3c3c;
 }
 
 .navbar .navbar-toggler .navbar-toggler-icon:after,
@@ -396,7 +396,7 @@ textarea {
 	font-size: 1em;
 	line-height: 2.3em;
 	font-weight: 600;
-	color: #41B5BB;
+	color: #3c3c3c;
 }
 
 .navbar-nav .dropdown-menu {
@@ -518,7 +518,7 @@ footer .footer-credit p {
 	-ms-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
 	-o-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
 	box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
-	background: #41B5BB;
+	background: #3c3c3c;
 	border-radius: 5px;
 	padding: 5px 10px;
 }
@@ -674,7 +674,7 @@ footer .footer-credit p {
 
 .featured-post .nav-tabs .nav-link {
 	border: none;
-	color: #41B5BB;
+	color: #3c3c3c;
 	border-radius: 0;
 	font-size: 1.125rem;
 	text-transform: capitalize;
@@ -696,7 +696,7 @@ footer .footer-credit p {
 }
 
 .sec-title h3 {
-	color: #41B5BB;
+	color: #3c3c3c;
 	font-size: 1.5rem;
 	text-transform: capitalize;
 	font-weight: 700;
@@ -726,7 +726,7 @@ footer .footer-credit p {
 }
 
 .sidebar .widget .widget-title {
-	color: #41B5BB;
+	color: #3c3c3c;
 	font-size: 13px;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -1015,14 +1015,14 @@ footer .footer-credit p {
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	color: #41B5BB;
+	color: #3c3c3c;
 	font-size: 75px;
 	font-family: 'Playfair Display';
 }
 
 .single-page-content blockquote p {
 	font-weight: 700;
-	color: #41B5BB;
+	color: #3c3c3c;
 	font-size: 20px;
 }
 
@@ -1099,7 +1099,7 @@ footer .footer-credit p {
 	font-size: 11px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #41B5BB;
+	color: #3c3c3c;
 }
 
 .comment-section .comment .comment-img {
@@ -1155,7 +1155,7 @@ footer .footer-credit p {
 ==========================================================*/
 
 .contact a {
-	color: #41B5BB;
+	color: #3c3c3c;
 }
 
 .contact a:hover {
